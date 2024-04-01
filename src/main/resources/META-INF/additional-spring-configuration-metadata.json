@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "sping.jpa.hibernate.dll-auto",
+      "type": "java.lang.String",
+      "description": "Description for sping.jpa.hibernate.dll-auto."
+    },
+    {
+      "name": "sping.jpa.hibernate.dll-auto",
+      "type": "java.lang.String",
+      "description": "Description for sping.jpa.hibernate.dll-auto."
+    },
+    {
+      "name": "flyway.baselineOnMigrate",
+      "type": "java.lang.String",
+      "description": "Description for flyway.baselineOnMigrate."
+    },
+    {
+      "name": "flyway.baselineOnMigrate",
+      "type": "java.lang.String",
+      "description": "Description for flyway.baselineOnMigrate."
+    },
+    {
+      "name": "spring.jpa.hibernate.open-in-view",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.open-in-view."
+    },
+    {
+      "name": "spring.jpa.hibernate.open-in-view",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.open-in-view."
+    },
+    {
+      "name": "management.endpoint.web.exposure.include",
+      "type": "java.lang.String",
+      "description": "Description for management.endpoint.web.exposure.include."
+    },
+    {
+      "name": "management.endpoint.web.exposure.include",
+      "type": "java.lang.String",
+      "description": "Description for management.endpoint.web.exposure.include."
+    }
+  ] }
